@@ -1,2 +1,1 @@
-# template-sentence-data-autmentation
-template-sentence-data-autmentation
+# DATS: Data Augmentation Method Utilizing Template Sentences for Variable Definition Extraction
