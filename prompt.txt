@@ -1,0 +1,10 @@
+Generate 20 patterns of sentences defining three variables in English. The variable should be [VAR] and the definition should be [DEF]. However, the following three conditions must be observed.
+(1) If there is more than one variable, use subscripts such as [VAR_1], [VAR_2], and so on. Similarly, the definitions should also be [DEF_1], [DEF_2].
+(2) Generated sentences should be separated by " " and a comma (,) should be placed at the end.
+(3) Generate sentences in various patterns. The generated sentences should be assumed to be in a chemistry-related paper. Sentences that are not natural or identical to the examples will not be accepted.
+
+Some examples are shown below.
+"We introduce three variables, [VAR_1], [VAR_2], and [VAR_3], with corresponding definitions of [DEF_1], [DEF_2], and [DEF_3 ]." ,
+"Our system includes three variables: [symbol_1], [symbol_2], and [symbol_3], where [DEF_1], [DEF_2], and [DEF_3] are their respective definitions.",
+"Let’s define [VAR_1] as [DEF_1], [VAR_2] as [DEF_2], and [VAR_3] as [DEF_3]." ,
+"We consider three variables, denoted as [VAR_1], [VAR_2], and [VAR_3], each representing [DEF_1], [DEF_2], and [DEF_3]."
